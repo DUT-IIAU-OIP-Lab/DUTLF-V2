@@ -1,7 +1,7 @@
 # DUTLF-V2
 ## Overview
 1. DUTLF-V2 is the updated version of DUTLF-V1, which consists of 4204 light field samples.
-2. DUTLF-V2 is publicly available in **[Link](https://pan.baidu.com/s/1GPzO0n1ZsJXEzQ8bkuoYsA) (code: xjur).** 
+2. DUTLF-V2 is publicly available in **[baiduyun](https://pan.baidu.com/s/1GPzO0n1ZsJXEzQ8bkuoYsA) (code: xjur)** and **[google](https://drive.google.com/drive/folders/1HcS5gahZcSBZkpa5ihpq7J5dctAfD-rE?usp=sharing)** 
 
 ## Dataset Elements
 Each sample of DUTLF-V2 contains 5 elements, including a RGB image (a), a saliency mask (b), a depth map (c), a stack of 12 focal slices (d) and an array of multi-view images (f).
